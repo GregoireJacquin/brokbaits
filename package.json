@@ -1,5 +1,6 @@
 {
-  "name": "test",
+  "homepage": "http://gregoirejacquin.github.io/brokbaits",
+  "name": "brokbaits",
   "private": true,
   "version": "0.0.0",
   "type": "module",
