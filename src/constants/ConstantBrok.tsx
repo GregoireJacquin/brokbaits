@@ -1,0 +1,2 @@
+export const CATEGORY_BAITS = "Utiliser un leurre de chasse ou de pêche dans le but d'attirer une proie";
+export const CATEGORY_VET = "Un vêtement est un article d'habillement servant à couvrir une partie du corps humain.";
